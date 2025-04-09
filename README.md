@@ -1,7 +1,7 @@
 
 ---
 
-## ⚙️ Funcionalidades de los Archivos
+##  Funcionalidades de los Archivos
 
 ### HTML
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 🧩 Tecnologías Usadas
+## Tecnologías Usadas
 
 - **HTML5** semántico
 - **CSS3** con Grid, Flexbox y Media Queries
@@ -35,10 +35,10 @@
 
 ---
 
-## 🔀 Ramas del Repositorio
+## Ramas del Repositorio
 
 - `main`: versión final y funcional del proyecto
-- `desarrollo`: rama de trabajo utilizada durante la construcción del prototipo
+- `FolteriusPatch-2 `: rama de trabajo utilizada durante la construcción del prototipo
 
 ---
 
